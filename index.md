@@ -10,6 +10,8 @@ Hi, I’m **Giuliano Tuzzi** — an aerospace engineer-turned-data scientist wit
 
 I bring **3.5 years of industry experience** from leading firms like **Rolls-Royce** and **Airbus**, and I’m now focused on applying **Machine Learning and AI** to tackle real-world problems. I recently completed a Data Science & AI career accelerator at the **University of Cambridge**, where I focused on **Deep Learning** and **LLMs**.
 
+---
+
 What I’m passionate about:
 - Exploring the intersection of **engineering and AI**, creating generative workflows like my natural language-to-3D CAD model pipeline.
 - Leveraging **Large Language Models (LLMs)** for advanced applications, including building RAG pipelines and multi-agent frameworks for clients like the **Bank of England**.
