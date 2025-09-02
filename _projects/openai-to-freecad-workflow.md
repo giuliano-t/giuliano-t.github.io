@@ -13,7 +13,7 @@ Complex CAD (technical drawing) software often presents a steep learning curve, 
 
 | ![Turbine Blade](/assets/images/LPT_Blade_FreeCAD.jpg) | ![Design Lamp](/assets/images/Design_lamp_FreeCAD..png) |
 |:------------------------------------------------------:|:-------------------------------------------------------:|
-| Turbine Blade                                          | Design Lamp                                             |
+| Low Pressure Turbine Blade                             | Design Lamp                                             |
 
 
 
