@@ -14,6 +14,7 @@ What I’m passionate about:
 - Exploring the intersection of **engineering and AI**, creating generative workflows like my natural language-to-3D CAD model pipeline.
 - Leveraging **Large Language Models (LLMs)** for advanced applications, including building RAG pipelines and multi-agent frameworks for clients like the **Bank of England**.
 - Building **End-To-End ML solutions**, from training advanced classifiers like XGBoost to deploying them with tools like FastAPI and Docker.
+
 ---
 
 ## Highlights
