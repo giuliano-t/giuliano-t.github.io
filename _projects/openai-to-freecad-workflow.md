@@ -11,9 +11,9 @@ github: https://github.com/giuliano-t/openAI-to-freeCAD-workflow
 
 Complex CAD (technical drawing) software often presents a steep learning curve, creating a barrier between a designer's idea and a digital model. This project explores a new frontier in **language-to-geometry interfaces**, building an automated pipeline that transforms natural language instructions into editable 3D models with fully defined parameters.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="/assets/images/LPT_Blade_FreeCAD.jpg" alt="Turbine Blade" width="45%">
-  <img src="/assets/images/Design_lamp_FreeCAD..png" alt="Design Lamp" width="45%">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+  <img src="/assets/images/LPT_Blade_FreeCAD.jpg" alt="Turbine Blade" style="height:300px; width:auto;">
+  <img src="/assets/images/Design_lamp_FreeCAD..png" alt="Design Lamp" style="height:300px; width:auto;">
 </div>
 
 ---
