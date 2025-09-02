@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <!-- Top Navbar -->
+    <nav class="navbar">
+      <div class="container">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <ul class="nav">
+          {% for item in site.nav %}
+            {% assign current = (page.url == item.url or page.url == item.url | append: '/') %}
+            <li>
+              <a href="{{ item.url | relative_url }}" class="{% if current %}active{% endif %}">
+                {{ item.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Cayman header -->
+    <section class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      {% if site.github.repository_url %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+    </section>
+
+    <main id="content" class="main-content" role="main">
+      <div class="container">
+        {{ content }}
+      </div>
+      <footer class="site-footer">
+        <div class="container">
+          <span class="site-footer-owner">
+            {{ site.title }} — built with GitHub Pages & Cayman.
+          </span>
+        </div>
+      </footer>
+    </main>
+  </body>
+</html>
