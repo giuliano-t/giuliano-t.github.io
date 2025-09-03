@@ -6,23 +6,52 @@ permalink: /
 
 # About Me
 
-Hi, I’m **Giuliano Tuzzi** — an aerospace engineer-turned-data scientist with a PhD in **Structural Dynamics** from **Imperial College London**.
+Engineer-turned-ML practitioner with a PhD in **Structural Dynamics** from **Imperial College London** and experience in **high-integrity aerospace systems** (Rolls-Royce, Airbus).  
+I recently completed a **Data Science & AI career accelerator** at the **University of Cambridge**, focusing on **Deep Learning, LLMs, and agentic architectures**.  
 
-I bring **3.5 years of industry experience** from leading firms like **Rolls-Royce** and **Airbus**, and I’m now focused on applying **Machine Learning and AI** to tackle real-world problems. I recently completed a Data Science & AI career accelerator at the **University of Cambridge**, where I focused on **Deep Learning** and **LLMs**.
-
----
-
-What I’m passionate about:
-- Exploring the intersection of **engineering and AI**, creating generative workflows like my natural language-to-3D CAD model pipeline.
-- Leveraging **Large Language Models (LLMs)** for advanced applications, including building RAG pipelines and multi-agent frameworks for clients like the **Bank of England**.
-- Building **End-To-End ML solutions**, from training advanced classifiers like XGBoost to deploying them with tools like FastAPI and Docker.
+I bring a disciplined, analytical mindset, clear communication skills, and a practical engineering approach to machine learning — focused on building **reliable, innovative AI solutions for complex real-world challenges**.
 
 ---
 
-## Highlights
+## What I’m passionate about
 
-- 🎓 **Education**: PhD in Structural Dynamics (Imperial College London), Career Accelerator in Data Science & AI (University of Cambridge), and a full degree (BSc + MSc) in Mechanical Engineering (Politecnico di Milano).
-- 🛠️ **Industry**: From Stress and Loads Engineering at Rolls-Royce and Airbus to a full pivot into Data Science and AI.
-- 💡 **Portfolio**: See my [Projects](/projects) for applied ML apps, generative AI workflows, and practical deep learning implementations.
+- Exploring the intersection of **engineering and AI**, creating generative workflows such as my natural-language-to-3D CAD pipeline.  
+- Leveraging **Large Language Models (LLMs)** for advanced applications, including retrieval-augmented Q&A and multi-agent supervision (e.g. Bank of England).  
+- Delivering **end-to-end ML solutions**, from training classifiers like XGBoost to deploying them with FastAPI and Docker.  
 
-You can view my [Resume](/resume), or get in touch via [Contact](/contact).
+---
+
+## Education & Industry at a Glance
+- 🎓 **PhD, Structural Dynamics** – Imperial College London  
+- 🎓 **Data Science & AI Accelerator** – University of Cambridge  
+- 🛠 **Aerospace Engineering Roles** – Rolls-Royce (Stress Engineer), Airbus (Loads & Aeroelastics)  
+
+---
+
+## Selected Projects
+
+### [OpenAI → FreeCAD Workflow](/projects/openai-to-freecad-workflow/)
+Natural language → fully parametric CAD models with automated error-correction.  
+<p><a href="/projects/openai-to-freecad-workflow/" class="btn">View Project</a></p>
+
+---
+
+### [LLM Financial Regulatory Auditor](/projects/llm-financial-regulatory-auditor/)
+Multi-agent framework for auditing AI outputs on regulatory transcripts (Bank of England use case).  
+<p><a href="/projects/llm-financial-regulatory-auditor/" class="btn">View Project</a></p>
+
+---
+
+### [JP Morgan Credit Default Predictor](/projects/jpmorgan-credit-default-app/)
+FastAPI web app deploying an XGBoost model for real-time credit risk prediction.  
+<p><a href="/projects/jpmorgan-credit-default-app/" class="btn">View Project</a></p>
+
+---
+
+<p>
+<a href="/projects" class="btn">🔗 See All Projects</a>
+</p>
+
+---
+
+You can view my [Resume](/resume) or get in touch via [Contact](/contact).
