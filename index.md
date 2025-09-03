@@ -36,10 +36,7 @@ I bring a disciplined, analytical mindset, clear communication skills, and a pra
 
 ---
 
-<p>
-<a href="/projects" class="btn">🔗 See All Projects</a>
-</p>
-
+[See All Projects](/projects)
 
 ---
 
