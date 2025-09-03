@@ -42,10 +42,6 @@ Multi-agent framework for auditing AI outputs on regulatory transcripts (Bank of
 FastAPI web app deploying an XGBoost model for real-time credit risk prediction.  
 <p><a href="/projects/jpmorgan-credit-default-app/" class="btn">View Project</a></p>
 
-<p>
-<a href="/projects" class="btn">🔗 See All Projects</a>
-</p>
-
 ---
 
 You can view my [Resume](/resume) or get in touch via [Contact](/contact).
