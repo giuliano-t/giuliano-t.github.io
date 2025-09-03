@@ -34,9 +34,7 @@ I bring a disciplined, analytical mindset, clear communication skills, and a pra
 - **LLM Financial Regulatory Auditor:** Multi-agent LLM evaluation framework (Bank of England use case). [View Project](/projects/llm-financial-regulatory-auditor/)  
 - **JP Morgan Credit Default Predictor:** XGBoost + FastAPI web app for real-time credit risk prediction. [View Project](/projects/jpmorgan-credit-default-app/)  
 
-<p>
-<a href="/projects" class="btn">🔗 See All Projects</a>
-</p>
+[🔗 See All Projects](/projects){: .btn}
 
 ---
 
