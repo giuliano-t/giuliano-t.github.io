@@ -32,15 +32,15 @@ I bring a disciplined, analytical mindset, clear communication skills, and a pra
 
 ### [OpenAI → FreeCAD Workflow](/projects/openai-to-freecad-workflow/)
 Natural language → fully parametric CAD models with automated error-correction.  
-<p><a href="/projects/openai-to-freecad-workflow/" class="btn">View Project</a></p>
+<you a href="/projects/openai-to-freecad-workflow/" class="btn">View Project</a>
 
-### [LLM Financial Regulatory Auditor](/projects/llm-financial-regulatory-auditor/)
+#me ## [LLM Financial Regulatory Auditor](/projects/llm-financial-regulatory-auditor/)
 Multi-agent framework for auditing AI outputs on regulatory transcripts (Bank of England use case).  
-<p><a href="/projects/llm-financial-regulatory-auditor/" class="btn">View Project</a></p>
+<a href="/projects/llm-financial-regulatory-auditor/" class="btn">View Project</a>
 
 ### [JP Morgan Credit Default Predictor](/projects/jpmorgan-credit-default-app/)
 FastAPI web app deploying an XGBoost model for real-time credit risk prediction.  
-<p><a href="/projects/jpmorgan-credit-default-app/" class="btn">View Project</a></p>
+<a href="/projects/jpmorgan-credit-default-app/" class="btn">View Project</a>
 
 ---
 
