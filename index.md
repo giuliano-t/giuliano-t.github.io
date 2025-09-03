@@ -30,17 +30,9 @@ I bring a disciplined, analytical mindset, clear communication skills, and a pra
 
 ## Selected Projects
 
-### [OpenAI → FreeCAD Workflow](/projects/openai-to-freecad-workflow/)
-Natural language → fully parametric CAD models with automated error-correction.  
-<you a href="/projects/openai-to-freecad-workflow/" class="btn">View Project</a>
-
-#me ## [LLM Financial Regulatory Auditor](/projects/llm-financial-regulatory-auditor/)
-Multi-agent framework for auditing AI outputs on regulatory transcripts (Bank of England use case).  
-<a href="/projects/llm-financial-regulatory-auditor/" class="btn">View Project</a>
-
-### [JP Morgan Credit Default Predictor](/projects/jpmorgan-credit-default-app/)
-FastAPI web app deploying an XGBoost model for real-time credit risk prediction.  
-<a href="/projects/jpmorgan-credit-default-app/" class="btn">View Project</a>
+- **[OpenAI → FreeCAD Workflow](/projects/openai-to-freecad-workflow/):** Natural language → parametric CAD with automated error correction. [View Project](/projects/openai-to-freecad-workflow/)  
+- **[LLM Financial Regulatory Auditor](/projects/llm-financial-regulatory-auditor/):** Multi-agent LLM evaluation framework (Bank of England use case). [View Project](/projects/llm-financial-regulatory-auditor/)  
+- **[JP Morgan Credit Default Predictor](/projects/jpmorgan-credit-default-app/):** XGBoost + FastAPI web app for real-time credit risk prediction. [View Project](/projects/jpmorgan-credit-default-app/)  
 
 ---
 
