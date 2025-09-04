@@ -4,10 +4,44 @@ title: "Research"
 permalink: /research
 ---
 
-# Research
+# Research in Structural Dynamics
 
-During my PhD in **Structural Dynamics** at **Imperial College London**, I investigated vibration coupling in aero-engine rotor systems, combining advanced modelling, test rig design, and experimental validation.  
-My work has been published in journals, book chapters, and international conference proceedings.
+## Discovering Hidden Couplings in Aero-Engines
+
+Next-generation aero-engines demand lighter shafts, longer and more flexible blades, and increasingly complex support structures.  
+These innovations promise higher efficiency and lower noise — but they also introduce **hidden risks**.  
+
+Traditionally, engineers assumed that shaft, disc, and blade vibrations were largely independent.  
+My research at **Imperial College London (Rolls-Royce UTC)** proved that this assumption no longer holds.  
+I uncovered, modelled, and experimentally validated **entirely new families of coupled vibration modes** — interactions that can drive unexpected resonances, higher vibration levels, and ultimately fatigue or failure.
+
+---
+
+## My Contribution
+
+- **Predicted new phenomena**: Using advanced finite element models, I showed that asymmetric supports can merge shaft axial and lateral dynamics into so-called *mixed modes*, which then excite disc and blade modes simultaneously.  
+- **Extended to realistic systems**: By introducing bladed discs with stagger angles, I demonstrated that axial, lateral, and torsional dynamics can combine into unique “fully coupled” behaviours never reported before.  
+- **Experimental validation**: I designed and commissioned the **ARES test facility**, a bespoke rotor-dynamic rig, to deliberately trigger these predicted couplings and confirm them in practice.  
+- **Unexpected discoveries**: Tests revealed that even higher-order disc modes, long thought reactionless, can couple with shafts if mistuning or imperfections are present — exposing a blind spot in existing design methods.
+
+---
+
+## Why It Matters
+
+This work showed that **classical uncoupled assumptions in rotor dynamics are no longer valid** for future architectures.  
+To guarantee safe, efficient, and reliable engines, designers must now account for these coupled phenomena in both modelling and testing.  
+
+That is why Rolls-Royce sponsored this research: its implications directly impact the development of tomorrow’s ultra-efficient, low-noise propulsion systems.
+
+---
+
+## My Research Mindset
+
+What defines this journey is not just the novelty of the findings, but the **closed-loop approach**:  
+theory → simulation → rig design → validation → new discoveries.  
+
+It is the same mindset I now apply in **data science and AI**:  
+identifying hidden interactions, testing them rigorously, and translating insights into real-world impact.
 
 ---
 
