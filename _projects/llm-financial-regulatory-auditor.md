@@ -44,6 +44,4 @@ I designed and implemented a structured evaluation pipeline where one LLM superv
 
 ---
 
-<p>
-<a href="https://github.com/giuliano-t/llm-financial-regulatory-auditor" class="btn">🔗 View on GitHub</a>
-</p>
+[🔗 View on GitHub](https://github.com/giuliano-t/llm-financial-regulatory-auditor)
