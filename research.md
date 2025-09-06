@@ -16,16 +16,22 @@ This raised a key question: could vibrations in different parts of the rotor, on
 
 In my research I uncovered and validated entirely new families of coupled shaft-disc-blades modes. Using advanced finite element models, I showed that asymmetric bearing supports can cause shaft bending and axial motions to merge into new “hybrid” modes. Extending the analysis to bladed discs showed that torsional, lateral, and axial vibrations can also combine into unique, fully coupled behaviours.
 
-To validate the predictions, I adapted the existing **ARES rig** facility by designing, commissioning, and installing a new asymmetric support structure. This bespoke setup allowed us to deliberately trigger the predicted couplings on a real rotating system. Experiments confirmed the predictions and even revealed additional unexpected couplings when a disc is mistuned.
+<video width="600" controls>
+  <source src="/assets/videos/IMAC_Mode_6_NR.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![ARES Test Facility](assets/images/Assembly_Cool_Picture2_page-0001.jpg)
+
+To validate the predictions, I adapted the existing **ARES rig** facility by designing, commissioning, and installing a new asymmetric support structure. This bespoke setup allowed us to deliberately trigger the predicted couplings on a real rotating system. Experiments confirmed the predictions and even revealed additional vibrational couplings when a disc is mistuned.
+
+![ARES Test Facility](assets/images/ARES_OLD_CAD_3_page-0001.jpg)
 
 ![ARES Test Facility](assets/images/Assembly_Cool_Picture2_page-0001.jpg)
 
 ---
 ### My Approach to Research
 
-I am driven by a deep curiosity to uncover the hidden physics in complex systems. My approach combines rigorous computational modeling with hands-on experimental validation, ensuring that every theoretical insight is grounded in real-world proof. This dual focus on both theory and tangible evidence is fundamental to how I tackle challenging problems.
+Placeholder
 
 ### Methods & Tools:
 
