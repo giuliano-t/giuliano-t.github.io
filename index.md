@@ -21,10 +21,12 @@ I bring a disciplined, analytical mindset, clear communication skills, and a pra
 
 ---
 
-## Education & Industry at a Glance
+## Education & Work Experience
 - 🎓 **PhD, Structural Dynamics** – Imperial College London  
-- 🎓 **Data Science & AI Accelerator** – University of Cambridge  
-- 🛠 **Aerospace Engineering Roles** – Rolls-Royce (Stress Engineer), Airbus (Loads & Aeroelastics)  
+- ✈️ **Aerospace Engineering Roles** – Rolls-Royce (Stress Engineer), Airbus (Loads & Aeroelastics)  
+- 📊 **Data Science & AI Accelerator** – University of Cambridge
+
+Alongside my transition into Data Science and AI, I also maintain a deep research track in structural dynamics and complex vibration interactions — developed during my PhD at Imperial College London and published in leading journals. If your work touches rotor dynamics, aeroelasticity, or vibration analysis, you can dive into my research [here](/research).
 
 ---
 
