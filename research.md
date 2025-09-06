@@ -1,25 +1,37 @@
 # Research in Structural Dynamics
 
-## Discovering Hidden Couplings in Aero-Engines
+## Discovering Hidden Dynamic Couplings in Aero-Engines
 
-My PhD at **Imperial College London (Rolls-Royce UTC)** uncovered hidden vibration interactions in aero-engine rotors — phenomena that had never been recognised before.  
-By combining advanced modelling with a custom-built test rig, I proved that traditional uncoupled assumptions are no longer valid.  
-This research now informs how future engines must be designed for both efficiency and reliability.
+My PhD at **Imperial College London (Rolls-Royce UTC)** expanded the current knowledge on hidden vibration interactions in aero-engine rotors, which are likely to affect newer generation designs.  
+By combining advanced modelling with a custom-built test rig, I demonstrated that the long-standing assumption of independent shaft, disc, and blade dynamics breaks down under modern architectures.  
+These findings imply that **new design requirements** are needed to safeguard the structural integrity and reliability of future ultra-efficient engines.
 
 ---
 
 ## Research Summary
 
-Next-generation aero-engines rely on shorter, stiffer shafts carrying longer, more flexible blades.  
-These designs improve efficiency and reduce noise — but they also create **hidden vibration risks**.  
+Next-generation aero-engines rely on shorter, stiffer shafts carrying longer, more flexible blades.  These designs improve aerodynamic efficiency and reduce noise — but they also create **hidden vibration risks**.  
 
-These designs improve efficiency and reduce noise — but they also create hidden vibration risks. This raised a key question: could vibrations in different parts of the rotor, once thought independent, actually interact in unexpected ways?
+This raised a key question: could vibrations in different parts of the rotor, once thought independent, actually interact in unexpected ways?
 
-In my research I uncovered and validated entirely new families of coupled vibration modes. Using advanced finite element models, I showed that asymmetric bearing supports can cause shaft bending and axial motions to merge into new “hybrid” modes — for example, a bending pattern and an axial compression mode blending into one. Extending the analysis to bladed discs showed that torsional, lateral, and axial vibrations can also combine into unique, fully coupled behaviours.
+In my research I uncovered and validated entirely new families of coupled shaft-disc-blades modes. Using advanced finite element models, I showed that asymmetric bearing supports can cause shaft bending and axial motions to merge into new “hybrid” modes. Extending the analysis to bladed discs showed that torsional, lateral, and axial vibrations can also combine into unique, fully coupled behaviours.
 
-Finally, I designed and commissioned the **ARES test facility** to deliberately trigger these phenomena. Experiments confirmed the predictions and even revealed additional unexpected couplings in mistuned systems.  
+To validate the predictions, I adapted the existing **ARES rig** facility by designing, commissioning, and installing a new asymmetric support structure. This bespoke setup allowed us to deliberately trigger the predicted couplings on a real rotating system. Experiments confirmed the predictions and even revealed additional unexpected couplings when a disc is mistuned.
 
-**Impact:** my research demonstrated that classical uncoupled assumptions in rotor dynamics are no longer valid for future architectures. For the safe and reliable design of ultra-efficient engines, engineers must now account for these coupled behaviours in both modelling and testing.
+![ARES Test Facility](assets/images/ARES_OLD_CAD_3_page-0001.jpg)
+
+---
+### My Approach to Research
+
+I am driven by a deep curiosity to uncover the hidden physics in complex systems. My approach combines rigorous computational modeling with hands-on experimental validation, ensuring that every theoretical insight is grounded in real-world proof. This dual focus on both theory and tangible evidence is fundamental to how I tackle challenging problems.
+
+### Methods & Tools:
+
+- **FEM**: Abaqus (with Python scripting), fully self-developed models in Matlab
+- **CAD**: Solid Works
+- **Data Acquisition**: SignalCalc, LabView
+- **Experimental Techniques**: Hammer tests, Shaker tests, Unbalance tests
+- **Programming Languages** for pre and post-processing: Matlab, Python
 
 ---
 
