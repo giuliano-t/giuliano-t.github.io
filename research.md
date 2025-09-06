@@ -16,15 +16,26 @@ This raised a key question: could vibrations in different parts of the rotor, on
 
 In my research I uncovered and validated entirely new families of coupled shaft-disc-blades modes. Using advanced finite element models, I showed that asymmetric bearing supports can cause shaft bending and axial motions to merge into new “hybrid” modes. Extending the analysis to bladed discs showed that torsional, lateral, and axial vibrations can also combine into unique, fully coupled behaviours.
 
-<video width="600" controls>
-  <source src="/assets/videos/IMAC_Mode_6_NR.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center; margin: 2em 0;">
+  <video width="600" controls>
+    <source src="/assets/videos/IMAC_Mode_6_NR.mp4" type="video/mp4">
+    Your browser can’t play this video. <a href="/assets/videos/IMAC_Mode_6_NR.mp4">Download it here.</a>
+  </video>
+  <p style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    <strong>Figure 1.</strong> Shaft Bending to Disc 0ND Coupled Mode.
+  </p>
+</div>
 
-<video width="600" controls>
-  <source src="/assets/videos/Blades_290.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center; margin: 2em 0;">
+  <video width="600" controls>
+    <source src="/assets/videos/Blades_290.mp4" type="video/mp4">
+    Your browser can’t play this video. <a href="/assets/videos/Blades_290.mp4">Download it here.</a>
+  </video>
+  <p style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    <strong>Figure 2.</strong> Blade 0ND Bending to Shaft Torsional-Axial-Bending fully Coupled Mode.
+  </p>
+</div>
+
 
 
 To validate the predictions, I adapted the existing **ARES rig** facility by designing, commissioning, and installing a new asymmetric support structure. This bespoke setup allowed us to deliberately trigger the predicted couplings on a real rotating system. Experiments confirmed the predictions and even revealed additional vibrational couplings when a disc is mistuned.
