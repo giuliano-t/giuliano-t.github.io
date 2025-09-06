@@ -8,5 +8,5 @@ permalink: /resume
 
 You can view or download my full CV here:
 
-![📑 Download Resume](assets/Giuliano_Tuzzi_CV_DATA_AI.pdf)
+[📑 Download Resume](assets/Giuliano_Tuzzi_CV_DATA_AI.pdf)
 
