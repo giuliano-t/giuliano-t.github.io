@@ -47,4 +47,4 @@ Complex CAD (technical drawing) software often presents a steep learning curve, 
 
 ---
 
-[🔗 View on Github](https://github.com/giuliano-t/openAI-to-freeCAD-workflow)
+[🔗 View on GitHub](https://github.com/giuliano-t/openAI-to-freeCAD-workflow)
