@@ -21,6 +21,11 @@ In my research I uncovered and validated entirely new families of coupled shaft-
   Your browser does not support the video tag.
 </video>
 
+<video width="600" controls>
+  <source src="/assets/videos/Blades_290.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 To validate the predictions, I adapted the existing **ARES rig** facility by designing, commissioning, and installing a new asymmetric support structure. This bespoke setup allowed us to deliberately trigger the predicted couplings on a real rotating system. Experiments confirmed the predictions and even revealed additional vibrational couplings when a disc is mistuned.
 
