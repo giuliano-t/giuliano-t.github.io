@@ -18,7 +18,7 @@ In my research I uncovered and validated entirely new families of coupled shaft-
 
 To validate the predictions, I adapted the existing **ARES rig** facility by designing, commissioning, and installing a new asymmetric support structure. This bespoke setup allowed us to deliberately trigger the predicted couplings on a real rotating system. Experiments confirmed the predictions and even revealed additional unexpected couplings when a disc is mistuned.
 
-![ARES Test Facility](assets/images/ARES_OLD_CAD_3_page-0001.jpg)
+![ARES Test Facility](assets/images/Assembly_Cool_Picture2_page-0001.jpg)
 
 ---
 ### My Approach to Research
