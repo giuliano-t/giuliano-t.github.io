@@ -41,14 +41,14 @@ In my research I uncovered and validated entirely new families of coupled shaft-
 To validate the predictions, I adapted the existing **ARES rig** facility by designing, commissioning, and installing a new asymmetric support structure. This bespoke setup allowed us to deliberately trigger the predicted couplings on a real rotating system. Experiments confirmed the predictions and even revealed additional vibrational couplings when a disc is mistuned.
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="assets/images/ARES_OLD_CAD_3_page-0001.jpg" alt="ARES CAD model" width="600">
+  <img src="/assets/images/ARES_OLD_CAD_3_page-0001.jpg" alt="ARES CAD model" width="600">
   <p style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     <strong>Figure 3.</strong> Pre-existing ARES rig
   </p>
 </div>
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="assets/images/Assembly_Cool_Picture2_page-0001.jpg" alt="ARES assembled rig" width="600">
+  <img src="/assets/images/Assembly_Cool_Picture2_page-0001.jpg" alt="ARES assembled rig" width="600">
   <p style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     <strong>Figure 4.</strong> Asymmetric bearing support assembly added for experimental validation
   </p>
