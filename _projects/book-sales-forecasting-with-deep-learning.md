@@ -29,9 +29,5 @@ Results showed that **advanced models outperformed classical methods**, with **X
 
 ---
 
-<p>
-  <a href="https://github.com/giuliano-t/Book-Sales-Forecasting-with-Deep-Learning" class="btn">
-    View on GitHub
-  </a>
-</p>
+[🔗 View on GitHub](https://github.com/giuliano-t/Book-Sales-Forecasting-with-Deep-Learning)
 
