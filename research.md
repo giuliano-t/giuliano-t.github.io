@@ -20,6 +20,8 @@ To validate the predictions, I adapted the existing **ARES rig** facility by des
 
 ![ARES Test Facility](assets/images/Assembly_Cool_Picture2_page-0001.jpg)
 
+![ARES Test Facility](assets/images/Assembly_Cool_Picture2_page-0001.jpg)
+
 ---
 ### My Approach to Research
 
