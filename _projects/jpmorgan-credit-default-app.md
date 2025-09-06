@@ -9,3 +9,7 @@ live: https://jpmorgan-credit-default-predictor.onrender.com
 ---
 
 Machine learning model + FastAPI app for **real-time credit default risk prediction**.
+
+[🔗 View on GitHub](https://github.com/giuliano-t/jpmorgan-credit-default-app)
+
+[🌐 Live](https://jpmorgan-credit-default-predictor.onrender.com) 
