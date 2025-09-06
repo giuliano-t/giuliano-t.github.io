@@ -33,6 +33,4 @@ The final model identified **five distinct customer personas**, including:
 
 ---
 
-<p>
-<a href="https://github.com/giuliano-t/Customer-Segmentation-with-KMeans" class="btn">🔗 View on GitHub</a>
-</p>
+[🔗 View on GitHub](https://github.com/giuliano-t/Customer-Segmentation-with-KMeans)
