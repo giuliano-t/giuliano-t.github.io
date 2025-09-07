@@ -6,27 +6,29 @@ permalink: /
 
 # About Me
 
-Engineer-turned-ML practitioner with a PhD in **Structural Dynamics** from **Imperial College London** and experience in **high-integrity aerospace systems** (Rolls-Royce, Airbus).  
-I recently completed a **Data Science & AI career accelerator** at the **University of Cambridge**, focusing on **Deep Learning, LLMs, and agentic architectures**.  
+I am an engineer and Data Science/Machine Learning practitioner with a PhD in **Structural Dynamics** from **Imperial College London** and extensive experience in the **aerospace industry** (Rolls-Royce, Airbus).  
+I recently completed a **Data Science with Machine Learning & AI career accelerator** at the **University of Cambridge**, focusing on **Deep Learning, LLMs, and agentic architectures**.  
 
-I bring a disciplined, analytical mindset, clear communication skills, and a practical engineering approach to machine learning — focused on building **reliable, innovative AI solutions for complex real-world challenges**.
+I bring a strong analytical and research-oriented mindset, excellent communication skills, and a thorough approach to Machine Learning and Artificial Intelligence solutions. One of my main interests is the application of Generative AI and agentic architectures to **complex real-world challenges**.
 
 ---
 
 ## What I’m passionate about
 
-- Exploring the intersection of **engineering and AI**, creating generative workflows such as my natural-language-to-3D CAD pipeline.  
-- Leveraging **Large Language Models (LLMs)** for advanced applications, including retrieval-augmented Q&A and multi-agent supervision (e.g. Bank of England).  
-- Delivering **end-to-end ML solutions**, from training classifiers like XGBoost to deploying them with FastAPI and Docker.  
+- Exploring the intersection of **engineering and AI**, creating generative workflows such as my natural-language-to-3D CAD pipeline. I'm currently extending this toward a full FEA workflow.  
+- Leveraging **Large Language Models (LLMs)** for advanced applications, including retrieval-augmented automated debugging and multi-agent orchestration (e.g. Bank of England project).  
+- Delivering **end-to-end ML solutions**, from training classifiers like XGBoost and Neural Networks to deploying them with FastAPI and Docker.  
 
 ---
 
 ## Education & Work Experience
-- 🎓 **PhD, Structural Dynamics** – Imperial College London  
-- ✈️ **Aerospace Engineering Roles** – Rolls-Royce (Stress Engineer), Airbus (Loads & Aeroelastics)  
-- 📊 **Data Science & AI Accelerator** – University of Cambridge
+- 🔬 **PhD, Structural Dynamics** – Imperial College London (sponsored by Rolls-Royce Civil)  
+- ⚙️ **Stress Engineer, Rolls-Royce Defence** – focused on low-pressure turbine blade vibration and HCF analysis for a technical demonstrator  
+- ✈️ **Loads & Aeroelastics Engineer, Airbus UK** – responsible for whole-aircraft gust loads across multiple programs and ground loads calculations  
+- 📊 **Data Science & AI Accelerator** – University of Cambridge  
 
-Alongside my transition into Data Science and AI, I also maintain a deep research track in structural dynamics and complex vibration interactions — developed during my PhD at Imperial College London and published in leading journals. If your work touches rotor dynamics, aeroelasticity, or vibration analysis, you can dive into my research [here](/research).
+
+Alongside my transition into Data Science and AI, I also maintain a deep research track in structural dynamics and complex vibration interactions. For those interested in rotor dynamics, aeroelasticity, or vibration analysis, you can explore my research [here](/research).
 
 ---
 
@@ -35,6 +37,7 @@ Alongside my transition into Data Science and AI, I also maintain a deep researc
 - **OpenAI → FreeCAD Workflow:** Natural language → parametric CAD with automated error correction. [View Project](/projects/openai-to-freecad-workflow/)  
 - **LLM Financial Regulatory Auditor:** Multi-agent LLM evaluation framework (Bank of England use case). [View Project](/projects/llm-financial-regulatory-auditor/)  
 - **JP Morgan Credit Default Predictor:** XGBoost + FastAPI web app for real-time credit risk prediction. [View Project](/projects/jpmorgan-credit-default-app/)  
+ 
 
 [See All Projects](/projects)
 
