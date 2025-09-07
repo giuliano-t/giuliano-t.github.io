@@ -10,7 +10,7 @@ These findings imply that **new design requirements** are needed to safeguard th
 
 ## Research Summary
 
-Next-generation aero-engines rely on shorter, stiffer shafts carrying longer, more flexible blades.  These designs improve aerodynamic efficiency and reduce noise — but they also create **hidden vibration risks**.  
+Next-generation aero-engines rely on shorter, stiffer shafts carrying longer, more flexible blades.  These designs improve aerodynamic efficiency and reduce noise, but they also create **hidden vibration risks**.  
 
 This raised a key question: could vibrations in different parts of the rotor, once thought independent, actually interact in unexpected ways?
 
@@ -56,11 +56,12 @@ To validate the predictions, I adapted the existing **ARES rig** facility by des
 
 
 ---
+
 ### My Approach to Research
 
-At the core of my approach to research is a drive to understand the underlying physics of complex systems and to translate that understanding into reliable numerical models. I approach each problem by digging into the fundamentals first — ensuring that every assumption is physically sound and every result traceable to the mechanisms at play.  
+At the core of my approach to research is a drive to understand the underlying physics of complex systems and to translate that understanding into reliable numerical models. I approach each problem by digging into the fundamentals first, ensuring that every assumption is physically sound and every result traceable to the mechanisms at play.  
 
-I have a proven ability to step into new topics with limited prior exposure, quickly surveying the literature, identifying what is known and — more importantly — what is missing. This allows me to define clear, focused research plans that address real gaps.  
+I have a proven ability to step into new topics with limited prior exposure, quickly surveying the literature, identifying what is known and, more importantly, what is missing. This allows me to define clear, focused research plans that address real gaps.  
 
 My work combines a deep knowledge of computational mechanics and structural dynamics with hands-on experimental practice. I used and developed numerical tools (FEM, signal processing, bespoke Matlab/Python routines) alongside laboratory procedures (shaker tests, rig commissioning, vibration measurements) to validate and refine models. This dual focus ensures that my research is both rigorous in theory and grounded in physical reality.
 
