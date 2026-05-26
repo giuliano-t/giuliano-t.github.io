@@ -21,26 +21,26 @@ The system mimics the workflow of a human analyst: a primary AI agent extracts k
 
 I designed and implemented a structured evaluation pipeline where one LLM supervises another:
 
-1. **Scoring relevance** — each extracted metric is scored against **Prudential Regulation Authority (PRA) 2025 priorities**.  
-2. **Justifying the score** — the supervisor provides a written rationale.  
-3. **Recommending action** — metrics are flagged to *Keep, Revise, or Remove*, ensuring actionable outputs.  
+1. **Scoring relevance:** each extracted metric is scored against **Prudential Regulation Authority (PRA) 2025 priorities**.  
+2. **Justifying the score:** the supervisor provides a written rationale.  
+3. **Recommending action:** metrics are flagged to *Keep, Revise, or Remove*, ensuring actionable outputs.  
 
 ---
 
 ## Key Features
 
-- **Agentic Workflow** — multi-agent architecture where a GPT-4o “meta-agent” supervises Claude.  
-- **Context-Aware Prompting** — PRA regulatory context injected directly into prompts.  
-- **Automated Data Pipelines** — scripts parse `.csv`, structure into JSON, and batch-process outputs.  
-- **Insight Visualization** — aggregated scores highlight patterns, strengths, and weaknesses across metrics.  
+- **Agentic Workflow:** multi-agent architecture where a GPT-4o “meta-agent” supervises Claude.  
+- **Context-Aware Prompting:** PRA regulatory context injected directly into prompts.  
+- **Automated Data Pipelines:** scripts parse `.csv`, structure into JSON, and batch-process outputs.  
+- **Insight Visualization:** aggregated scores highlight patterns, strengths, and weaknesses across metrics.  
 
 ---
 
 ## Tech Stack
 
-- **Core AI**: OpenAI GPT-4o, Anthropic Claude  
-- **Languages & Libraries**: Python, Pandas, NLTK, Gensim  
-- **Environment**: Google Colab, Jupyter Notebook  
+- **Core AI:** OpenAI GPT-4o, Anthropic Claude  
+- **Languages & Libraries:** Python, Pandas, NLTK, Gensim  
+- **Environment:** Google Colab, Jupyter Notebook  
 
 ---
 
