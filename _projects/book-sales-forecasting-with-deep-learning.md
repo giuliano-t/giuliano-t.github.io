@@ -11,7 +11,7 @@ github: https://github.com/giuliano-t/Book-Sales-Forecasting-with-Deep-Learning
 
 Publishers face the challenge of anticipating future sales to optimize inventory, procurement, and marketing investments. This project developed and compared multiple forecasting models on historical book sales data to support those decisions.
 
-The workflow began with basic **time-series analysis** such as seasonal decomposition and autocorrelation analysis. I then implemented a range of models — from **Auto-ARIMA** to **XGBoost** and **Long Short-Term Memory (LSTM)** neural networks — to fit the data and generate future predictions.
+The workflow began with basic **time-series analysis** such as seasonal decomposition and autocorrelation analysis. I then implemented a range of models, from **Auto-ARIMA** to **XGBoost** and **Long Short-Term Memory (LSTM)** neural networks, to fit the data and generate future predictions.
 
 ![Sales Forecast Comparison Chart](/assets/images/book_forecast_chart.png)
 
