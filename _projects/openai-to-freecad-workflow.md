@@ -22,9 +22,9 @@ Complex CAD (technical drawing) software often presents a steep learning curve, 
 
 ## How It Works: A Prompt-Driven Modeling Pipeline
 
-1. **Instruction Input** — the user provides verbal instructions for a 3D part.  
-2. **LLM Interpretation** — an LLM (via OpenAI API) translates these into executable Python code.  
-3. **Code Execution** — the script runs in FreeCAD to automatically construct a parametric CAD model.  
+1. **Instruction Input:** the user provides verbal instructions for a 3D part.  
+2. **LLM Interpretation:** an LLM (via OpenAI API) translates these into executable Python code.  
+3. **Code Execution:** the script runs in FreeCAD to automatically construct a parametric CAD model.  
 
 ![Workflow Diagram](/assets/images/Workflow_Diagram_FreeCAD.png)
 
@@ -32,18 +32,18 @@ Complex CAD (technical drawing) software often presents a steep learning curve, 
 
 ## Key Features & Innovations
 
-- **Automated Pipeline** — end-to-end workflow from text input to CAD model, orchestrated with **LangChain**.  
-- **AI-Powered Error Correction** — a **Retrieval-Augmented Generation (RAG)** component detects and fixes common CAD code errors (e.g., misapplied rotations, bad feature constraints).  
-- **Parametric by Design** — outputs are true **parametric CAD models**, not static meshes, making them editable and reusable for design iteration.  
+- **Automated Pipeline:** end-to-end workflow from text input to CAD model, orchestrated with **LangChain**.  
+- **AI-Powered Error Correction:** a **Retrieval-Augmented Generation (RAG)** component detects and fixes common CAD code errors (e.g., misapplied rotations, bad feature constraints).  
+- **Parametric by Design:** outputs are true **parametric CAD models**, not static meshes, making them editable and reusable for design iteration.  
 
 ---
 
 ## Tech Stack
 
-- **Core AI**: OpenAI API, LangChain  
-- **AI Technique**: Retrieval-Augmented Generation (RAG)  
-- **CAD Software**: FreeCAD  
-- **Language & Environment**: Python  
+- **Core AI:** OpenAI API, LangChain  
+- **AI Technique:** Retrieval-Augmented Generation (RAG)  
+- **CAD Software:** FreeCAD  
+- **Language & Environment:** Python  
 
 ---
 
